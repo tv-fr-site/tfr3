@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.logo img {
+  width: 50px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+img {
+  width: 40px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+.manesinterviewpolitique1 img {
+  width: 200px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+.creteilrefusdobtemperer img {
+  width: 200px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+.debutrpimg img {
+  width: 300px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+.playstationpng img {
+  width: 200px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+.guerreukraine1 img {
+  width: 300px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
+header {
+  background-color: #D1EEF5;
+  color: #FFF;
+  padding: 20px;
+  display: flex;
+  align-items: center; /* Alignement vertical au centre */
+}
+
+
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+.article {
+  margin-bottom: 20px;
+}
+
+.article h2 {
+  margin-top: 0;
+}
+
+footer {
+  background-color: #D1EEF5;
+  color: #FFF;
+  padding: 20px;
+  text-align: center;
+}
